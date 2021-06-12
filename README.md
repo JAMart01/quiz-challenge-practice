@@ -1,6 +1,6 @@
 # quiz-challenge-practice
 
-##2 What I did
+## What I did
 
 1. Created a basic quiz game that uses window confirm to check for true and false. 
 2. The browser will alert you if you got the answer correct. 
