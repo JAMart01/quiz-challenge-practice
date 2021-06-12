@@ -1,4 +1,7 @@
-// TODO: Create an array with five question objects
+alert("Welcome to the color's quiz!, Click OK to get started.")
+
+
+// TODO: Create an array with five question object
 
 var quizQuestions =  [
     {q:"Red, Green, and Blue (RGB) are the primary colors.", a: "f"},
